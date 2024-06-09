@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+rshf Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the documentation for the rshf project.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://rshf-docs.readthedocs.io/
