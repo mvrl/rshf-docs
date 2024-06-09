@@ -1,22 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+rshf: Remote Sensing Foundation Models Easy Benchmarking using Huggingface
+==============================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to the documentation for rshf!
+=======================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+**rshf** is a Python library for benchmarking remote sensing foundation models using Huggingface. It provides a simple and intuitive API for benchmarking foundation models on remote sensing tasks.
